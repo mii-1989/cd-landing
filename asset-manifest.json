@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/cd-landing/static/css/main.a0fd308c.css",
+    "main.js": "/cd-landing/static/js/main.a2cc7683.js",
+    "static/media/helicopter.jpg": "/cd-landing/static/media/helicopter.5be593f661d11cdfe1a2.jpg",
+    "static/media/return.jpg": "/cd-landing/static/media/return.a7e2169910a61739239f.jpg",
+    "static/media/mars-bg.jpg": "/cd-landing/static/media/mars-bg.55e9f70fd78ec683949b.jpg",
+    "static/media/rover2.jpg": "/cd-landing/static/media/rover2.cf9d2f60dc1463d07163.jpg",
+    "static/media/colonist.jpg": "/cd-landing/static/media/colonist.1c2fdc98b4c081b52e6b.jpg",
+    "static/media/mars-logo.png": "/cd-landing/static/media/mars-logo.b2ff453c8d816a46a50c.png",
+    "index.html": "/cd-landing/index.html",
+    "main.a0fd308c.css.map": "/cd-landing/static/css/main.a0fd308c.css.map",
+    "main.a2cc7683.js.map": "/cd-landing/static/js/main.a2cc7683.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0fd308c.css",
+    "static/js/main.a2cc7683.js"
+  ]
+}
