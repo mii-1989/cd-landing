@@ -1,3 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -5,9 +10,42 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #282c34;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.hamburger-button
+{
+  background-color: #333;
+  color: white;
+  padding: 15px;
+  font-size: 24px;
+  cursor: pointer;
+  position: relative;
+  transform: rotate(90deg);
+}
+
+.nav-links {
+  display: none;
+  background-color: #333;
+  color: white;
+
+}
+.nav-links a {
+  display: block;
+  padding: 15px;
+  color: white;
+  text-decoration: none;
+}
+.nav-links a:hover {
+  background-color: #111;
+}
+
+
+
+
+
